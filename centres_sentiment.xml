@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Call-Centres City</Data></Cell>
+			<Cell><Data ss:Type="String">Sentiment</Data></Cell>
+			<Cell><Data ss:Type="String">overall_sentiment</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Baltimore</Data></Cell>
+			<Cell><Data ss:Type="String">Negative</Data></Cell>
+			<Cell><Data ss:Type="String">3711</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Baltimore</Data></Cell>
+			<Cell><Data ss:Type="String">Neutral</Data></Cell>
+			<Cell><Data ss:Type="String">2927</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Baltimore</Data></Cell>
+			<Cell><Data ss:Type="String">Positive</Data></Cell>
+			<Cell><Data ss:Type="String">1289</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Baltimore</Data></Cell>
+			<Cell><Data ss:Type="String">Very Negative</Data></Cell>
+			<Cell><Data ss:Type="String">2025</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Baltimore</Data></Cell>
+			<Cell><Data ss:Type="String">Very Positive</Data></Cell>
+			<Cell><Data ss:Type="String">1060</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Chicago</Data></Cell>
+			<Cell><Data ss:Type="String">Negative</Data></Cell>
+			<Cell><Data ss:Type="String">1839</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Chicago</Data></Cell>
+			<Cell><Data ss:Type="String">Neutral</Data></Cell>
+			<Cell><Data ss:Type="String">1445</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Chicago</Data></Cell>
+			<Cell><Data ss:Type="String">Positive</Data></Cell>
+			<Cell><Data ss:Type="String">634</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Chicago</Data></Cell>
+			<Cell><Data ss:Type="String">Very Negative</Data></Cell>
+			<Cell><Data ss:Type="String">972</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Chicago</Data></Cell>
+			<Cell><Data ss:Type="String">Very Positive</Data></Cell>
+			<Cell><Data ss:Type="String">529</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Denver</Data></Cell>
+			<Cell><Data ss:Type="String">Negative</Data></Cell>
+			<Cell><Data ss:Type="String">912</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Denver</Data></Cell>
+			<Cell><Data ss:Type="String">Neutral</Data></Cell>
+			<Cell><Data ss:Type="String">800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Denver</Data></Cell>
+			<Cell><Data ss:Type="String">Positive</Data></Cell>
+			<Cell><Data ss:Type="String">329</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Denver</Data></Cell>
+			<Cell><Data ss:Type="String">Very Negative</Data></Cell>
+			<Cell><Data ss:Type="String">492</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Denver</Data></Cell>
+			<Cell><Data ss:Type="String">Very Positive</Data></Cell>
+			<Cell><Data ss:Type="String">243</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Los Angeles</Data></Cell>
+			<Cell><Data ss:Type="String">Negative</Data></Cell>
+			<Cell><Data ss:Type="String">4601</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Los Angeles</Data></Cell>
+			<Cell><Data ss:Type="String">Neutral</Data></Cell>
+			<Cell><Data ss:Type="String">3582</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Los Angeles</Data></Cell>
+			<Cell><Data ss:Type="String">Positive</Data></Cell>
+			<Cell><Data ss:Type="String">1676</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Los Angeles</Data></Cell>
+			<Cell><Data ss:Type="String">Very Negative</Data></Cell>
+			<Cell><Data ss:Type="String">2537</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Los Angeles</Data></Cell>
+			<Cell><Data ss:Type="String">Very Positive</Data></Cell>
+			<Cell><Data ss:Type="String">1338</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
